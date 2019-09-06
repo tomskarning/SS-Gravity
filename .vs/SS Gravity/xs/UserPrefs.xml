@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EF68FEEC-E088-E228-E5D5-F9AF0B043018}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Planets.cs" Line="36" Column="40" />
+      <File FileName="Assets/Scripts/Moons.cs" />
+      <File FileName="Assets/Scripts/Sun.cs" />
+      <File FileName="Assets/Scripts/Gravity.cs" />
+      <File FileName="Assets/Scripts/Game.cs" />
+      <File FileName="Assets/Scripts/UISpaceShip.cs" />
+      <File FileName="Assets/Scripts/UPS.cs" />
+      <File FileName="Assets/Scripts/ObjectScaler.cs" />
+      <File FileName="Assets/Scripts/Commands.cs" />
+      <File FileName="Assets/Scripts/Engine.cs" Line="6" Column="43" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SS Gravity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1e16bbb6-5362-47eb-aa3f-852f3ace1208" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
