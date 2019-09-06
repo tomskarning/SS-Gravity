@@ -4,7 +4,7 @@ A gravity simulator/game I'm experimenting with.
 ## Attributions
 
 ### Music
-[Earthbound](http://www.dreamstatelogic.com/downloads.html) by Dreamstate Logic,
+[Earthbound](http://www.dreamstatelogic.com/downloads.html) by Dreamstate Logic &
 [Sci Fi](https://www.bensound.com/royalty-free-music/track/sci-fi) by Bensound.
 
 ### SFX
