@@ -9,7 +9,7 @@ A gravity simulator/game I'm experimenting with.
 
 ### SFX
 [https://freesound.org/people/qubodup/sounds/182724/](ALERT) by qubodup.
-[https://freesound.org/people/kaumodaki/sounds/245773/](Space Ship Bridge Loop) by kaumodaki.
+[https://freesound.org/people/kaumodaki/sounds/245773/](Space Ship Loop) by kaumodaki.
 [https://freesound.org/people/Nexotron/sounds/371282/](Spaceship Engine Noise Pack » Spaceship Engine - just noise) by Nexotron.
 [https://freesound.org/people/CuddleNucks/sounds/424415/](space ship atmos) by CuddleNucks.
 
@@ -31,5 +31,5 @@ C# in Unity.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSEtest) file for details.
 
