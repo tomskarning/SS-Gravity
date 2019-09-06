@@ -1,6 +1,10 @@
 # SS Gravity
 A gravity simulator/game I'm experimenting with.
 
+## Executables
+[Mac](https://github.com/tomskarning/ss-gravity/releases/download/0.1/Mac.zip), [Windows](https://github.com/tomskarning/ss-gravity/releases/download/0.1/Windows.zip).
+
+
 ## Attributions
 
 ### Music
