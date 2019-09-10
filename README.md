@@ -1,5 +1,5 @@
 # SS Gravity
-A space flight simulator/game with gravity I'm developing and experimenting with.
+A space flight simulator/game with solar system gravity I'm developing and experimenting with.
 
 ## Executables
 [Mac](https://github.com/tomskarning/ss-gravity/releases/download/0.1/Mac.zip), [Windows](https://github.com/tomskarning/ss-gravity/releases/download/0.1/Windows.zip).
